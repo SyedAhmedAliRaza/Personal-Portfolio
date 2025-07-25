@@ -26,7 +26,7 @@ Follow these steps to run the project on your local machine:
 -> npm install
 
 ### **3. Run the Development Servers**
--> npm run dev
+-> npm run dev<br>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
