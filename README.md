@@ -6,7 +6,7 @@ A modern, responsive portfolio website built to showcase my projects, skills, an
 
 ## 🚀 Technologies Used
 - **Next.js** (React Framework)
-- **React** (Frontend)
+- **React.js** (Frontend)
 - **Tailwind CSS** (Styling)
 - **Node.js & npm** (Package management)
 - **Vercel** (Deployment)
